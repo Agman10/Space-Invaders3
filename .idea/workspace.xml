@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3ef7d1-4629-48de-8ae3-9dc52be84b79" name="Default" comment=" Added Textures">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/Namnlös.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/Namnlös2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/invader.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/invader2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/invader3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/player.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/smiley.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/textures/smiley2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/invader.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/textures/invader2.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/Game$Listener.class" afterPath="$PROJECT_DIR$/out/production/Space-Invaders/Game$Listener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/Game.class" afterPath="$PROJECT_DIR$/out/production/Space-Invaders/Game.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Space-Invaders/Invader.class" afterPath="$PROJECT_DIR$/out/production/Space-Invaders/Invader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Space-Invaders.iml" afterPath="$PROJECT_DIR$/Space-Invaders.iml" />
     </list>
     <list id="58e33b73-b538-4a11-8fe3-c56204effbd1" name="New changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -170,18 +152,12 @@
             <path>
               <item name="Space-Invaders" type="b2602c69:ProjectViewProjectNode" />
               <item name="Space-Invaders" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Space-Invaders" type="b2602c69:ProjectViewProjectNode" />
               <item name="Space-Invaders" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="texture unused" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Space-Invaders" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Space-Invaders" type="462c0819:PsiDirectoryNode" />
-              <item name="textures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,6 +174,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -394,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527494479994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" Added Textures">
+      <created>1527495108619</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527495108619</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
